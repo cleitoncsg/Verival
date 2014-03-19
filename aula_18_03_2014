@@ -1,0 +1,31 @@
+
+Exemplos de procedimentos: 
+	-análise estática de código, testes automatizados
+
+Técnicas de verificação:
+	-Revisão em pares
+
+Realizar verificação:
+	-Exemplo: realizar checkList do documento de requisitos
+
+
+EXERCÍCIO DO SLIDE DA AULA
+_________________________________________________________________________________________________________
+Produto de trabalhos a serem verificados: código e Casos de Uso
+
+	Critérios para código: aderência a padrões de codificação, complexidade
+	ciclomática, coesão, acoplamento
+
+	Critérios para Caso de Uso: se está completo (atores, fluxos) , não ambíguo, 
+	nível de detalhamento adequado
+
+DEFINAS AÇÕES CORRETIVAS E PREVENTIVA PARA O CÓDIGO E OS CASOS DE USO:
+	_Ações Preventidas para código: treinamento sobre padrões de projeto, monitorar as métricas de código,
+
+	_Ações Corretivas para Código: aplicar os padrões de projeto, refatorar 
+
+	_Ações Preventivas para Caso de Uso: definir modelo, detalhar melhor os requisitos, redefinir forma de 
+	especificação dos requisitos.
+
+	_Ações Corretivas para Caso de Uso: refaz o Caso de Uso, refazer a especificação de requisitos.
+_____________________________________________________________________________________________________________
