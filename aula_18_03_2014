@@ -9,7 +9,7 @@ Realizar verificação:
 	-Exemplo: realizar checkList do documento de requisitos
 
 
-EXERCÍCIO DO SLIDE DA AULA
+EXERCÍCIO DO SLIDE 1 DA AULA
 _________________________________________________________________________________________________________
 Produto de trabalhos a serem verificados: código e Casos de Uso
 
@@ -29,3 +29,10 @@ DEFINAS AÇÕES CORRETIVAS E PREVENTIVA PARA O CÓDIGO E OS CASOS DE USO:
 
 	_Ações Corretivas para Caso de Uso: refaz o Caso de Uso, refazer a especificação de requisitos.
 _____________________________________________________________________________________________________________
+EXERCÍCIO DO SLIDE 2 DA AULA
+_____________________________________________________________________________________________________________
+Defina critérios de validação para um sistem de compras (Submarino, ponto frio, etc):
+	Repostas:
+	Usabilidade, confiabilidade, eficiência, eficácia, desempenho (requisitos não funcionais)
+	FURPS (funcionalidade, usabilidade, confiabilidade, desempenho, suportabilidade)
+______________________________________________________________________________________________________________

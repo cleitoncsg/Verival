@@ -1,0 +1,15 @@
+testes = analise dinâmica
+coesão, acoplamento, etc = analise estática
+Níveis de teste = teste unitário, teste de integração
+tipos de teste = caixa branca, caixa preta
+
+
+Exercicio: Critérios de validação e verificação para o submarino (analisar requisitos de navegação, compra, pós-venda)
+
+Critérios de validação: confiabilidade, usabilidade, experiência do usuário, desempenho;
+Critérios de verificação: testes, analise estática, teste de usabilidade;
+
+
+Navegação: páginas carregadas em menos de um segundo,produtos agrupados em categorias, compra em cinco passos, limites de produtos por página.
+Compra: possui certificado digital, seleção para pagamento, oferece nota legal, permitir vendas para apenas para usuários cadastrados, permitir pagamento via paypal, calcular frete através frete, dupla verificação de usuário
+Pós-venda: email de confirmação, chat de dúvidas on line, acompanhamento via entrega, avaliação do produto, avaliação do atendimento.
